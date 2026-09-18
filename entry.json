@@ -1,0 +1,34 @@
+{
+    "id": "fractal-learning",
+    "title": "Fitting Point Clouds with Iterated Transforms",
+    "description": "An interactive TensorFlow.js lab that reverse-engineers an iterated function system from a target point cloud: a handful of affine transforms are enumerated to a fixed depth (commutative multisets via binary powers, or ordered words) and tuned by gradient descent against a symmetric Chamfer loss. Draw or load a target shape, pick the number of transforms and the depth, and watch a random constellation self-organize into the outline you asked for.",
+    "tags": [
+        "fractals",
+        "iterated-function-systems",
+        "ifs",
+        "chamfer-distance",
+        "gradient-descent",
+        "autodiff",
+        "tensorflow-js",
+        "point-clouds",
+        "optimization",
+        "inverse-problems",
+        "generative-art",
+        "interactive"
+    ],
+    "category": "labs",
+    "href": "index.html",
+    "readme": "README.md",
+    "seo": {
+        "keywords": [
+            "iterated function system",
+            "IFS inverse problem",
+            "fractal compression",
+            "Barnsley fern",
+            "Chamfer loss",
+            "differentiable fractals",
+            "point cloud fitting",
+            "TensorFlow.js"
+        ]
+    }
+}
